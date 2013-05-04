@@ -1,0 +1,20 @@
+Nützliche Git Befehle:
+
+Befehl:				Beschreibung:
+
+$ git help config 		Öffnet Mainpage
+
+$ git init			Im Ordner mit git Daten, um zu starten
+
+
+Reihenfolge
+1. Neue / Veränderte Datei Hinzufügen
+$ git add
+
+2.Comit
+
+$ git commit -m "Kommentar"
+
+3. Hochladen
+
+$ git push 
